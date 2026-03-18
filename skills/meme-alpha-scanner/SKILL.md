@@ -1,14 +1,13 @@
 ---
-title: Meme Alpha Scanner
+name: meme-alpha-scanner
 description: |
   Multi-dimensional meme token discovery and analysis tool combining 5 Binance Web3 APIs.
-  Use this skill when users ask to scan/discover meme tokens, find trending memes, 
+  Use this skill when users ask to scan/discover meme tokens, find trending memes,
   check smart money flows, analyze social hype, or build a meme token watchlist.
   Supports BSC (chainId: 56) and Solana (chainId: CT_501).
 metadata:
+  author: ls569333469
   version: "1.0"
-  author: meme-alpha-team
-license: MIT
 ---
 
 # Meme Alpha Scanner

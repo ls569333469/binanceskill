@@ -1,14 +1,13 @@
 ---
-title: Meme Signal Evaluator
+name: meme-signal-evaluator
 description: |
   6-dimensional scoring engine for meme tokens with automated paper trading simulation.
   Use this skill when users ask to evaluate/score meme tokens, set up buy/sell strategies,
   run paper trading simulations, or build a systematic meme token trading pipeline.
   Combines Smart Money, Social, Trend, Inflow, KOL/Whale, and Hype dimensions.
 metadata:
+  author: ls569333469
   version: "1.0"
-  author: meme-alpha-team
-license: MIT
 ---
 
 # Meme Signal Evaluator
